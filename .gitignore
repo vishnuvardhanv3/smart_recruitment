@@ -45,3 +45,4 @@ Thumbs.db
 backend/uploads/resumes/*
 !backend/uploads/resumes/sample_alex_morgan_resume.pdf
 !backend/uploads/resumes/.gitkeep
+
